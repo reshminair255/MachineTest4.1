@@ -1,0 +1,7 @@
+E:\assignment\ConsoleAppOne-solution\ConsoleApp_Librarymanagement\bin\Debug\ConsoleApp_Librarymanagement.exe.config
+E:\assignment\ConsoleAppOne-solution\ConsoleApp_Librarymanagement\bin\Debug\ConsoleApp_Librarymanagement.exe
+E:\assignment\ConsoleAppOne-solution\ConsoleApp_Librarymanagement\bin\Debug\ConsoleApp_Librarymanagement.pdb
+E:\assignment\ConsoleAppOne-solution\ConsoleApp_Librarymanagement\obj\Debug\ConsoleApp_Librarymanagement.csproj.AssemblyReference.cache
+E:\assignment\ConsoleAppOne-solution\ConsoleApp_Librarymanagement\obj\Debug\ConsoleApp_Librarymanagement.csproj.CoreCompileInputs.cache
+E:\assignment\ConsoleAppOne-solution\ConsoleApp_Librarymanagement\obj\Debug\ConsoleApp_Librarymanagement.exe
+E:\assignment\ConsoleAppOne-solution\ConsoleApp_Librarymanagement\obj\Debug\ConsoleApp_Librarymanagement.pdb
